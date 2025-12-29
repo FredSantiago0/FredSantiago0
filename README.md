@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 <!-- ABOUT -->
 <h2 align="center">🚀 Technologies & Tools</h2>
 
@@ -41,14 +39,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
 </div>
 
----
+
 
 <!-- STATS -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FredSantiago0&theme=nord_dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FredSantiago0&theme=nord_dark) | ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FredSantiago0&theme=nord_dark)|
+|:-:|:-:|
 
 </div>
 
@@ -59,14 +58,6 @@
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FredSantiago0&theme=iceberg&hide_border=true)](https://git.io/streak-stats) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FredSantiago0&theme=github_dark) |
 
 </div>
-
-<div align="center">
-
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FredSantiago0&theme=nord_dark)
-
-</div>
-
----
 
 <!-- SNAKE -->
 <div align="center">
@@ -79,12 +70,7 @@
 <h2 align="center">📬 Contact Me</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&color=0078D4&logoColor=white&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" /> <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" /> 
 </div>
 
 <!-- FOOTER -->
