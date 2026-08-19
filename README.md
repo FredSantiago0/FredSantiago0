@@ -50,7 +50,7 @@
 
 | 🔥 GitHub Streak | 📈 General Stats |
 |:-:|:-:|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FredSantiago0&theme=iceberg&hide_border=true)](https://git.io/streak-stats) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FredSantiago0&theme=github_dark) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=FredSantiago0&theme=iceberg)](https://git.io/streak-stats) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FredSantiago0&theme=github_dark) |
 
 </div>
 
